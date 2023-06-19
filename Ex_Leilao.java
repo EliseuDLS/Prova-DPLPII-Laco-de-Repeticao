@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Ex_Leilao {
     final static Scanner LER = new Scanner(System.in);
-
     public static void main(String[] args) {
         int i = 0;
         int numlances = 0;
