@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Ex_Feedback {
     final static Scanner LER = new Scanner(System.in);
     public static void main(String[] args) {
+        
         int diasDeTrabalho = 0;
         int numFeedbacks = 0;
         int feedback = 0;
